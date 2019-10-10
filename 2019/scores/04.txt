@@ -1,0 +1,52 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Philadelphia    
+    Green Bay
+PHI 34, GB 27    Aaron Rodgers 422    Jordan Howard 87    Davante Adams 180    
+Sunday, September 29
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Tennessee    
+    Atlanta
+TEN 24, ATL 10    Matt Ryan 397    Derrick Henry 100    Austin Hooper 130    
+    New England    
+    Buffalo
+NE 16, BUF 10    Josh Allen 153    Frank Gore 109    Cole Beasley 75    
+    Kansas City    
+    Detroit
+KC 34, DET 30    Patrick Mahomes 315    Kerryon Johnson 125    Travis Kelce 85    
+    Oakland    
+    Indianapolis
+OAK 31, IND 24    Jacoby Brissett 265    Josh Jacobs 79    Zach Pascal 72    
+    Los Angeles    
+    Miami
+LAC 30, MIA 10    Philip Rivers 310    Austin Ekeler 60    Dontrelle Inman 76    
+    Washington    
+    New York
+NYG 24, WSH 3    Daniel Jones 225    Wayne Gallman 63    Sterling Shepard 76    
+    Cleveland    
+    Baltimore
+CLE 40, BAL 25    Baker Mayfield 342    Nick Chubb 165    Jarvis Landry 167    
+    Carolina    
+    Houston
+CAR 16, HOU 10    Kyle Allen 232    Christian McCaffrey 93    Christian McCaffrey 86    
+    Tampa Bay    
+    Los Angeles
+TB 55, LAR 40    Jared Goff 517    Ronald Jones II 70    Chris Godwin 172    
+    Seattle    
+    Arizona
+SEA 27, ARI 10    Kyler Murray 241    Chris Carson 104    David Johnson 99    
+    Minnesota    
+    Chicago
+CHI 16, MIN 6    Kirk Cousins 233    David Montgomery 53    Stefon Diggs 108    
+    Jacksonville    
+    Denver
+JAX 26, DEN 24    Joe Flacco 303    Leonard Fournette 225    Emmanuel Sanders 104    
+    Dallas    
+    New Orleans
+NO 12, DAL 10    Dak Prescott 223    Alvin Kamara 69    Michael Thomas 95    
+Monday, September 30
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Cincinnati    
+    Pittsburgh
+PIT 27, CIN 3    Mason Rudolph 229    Joe Mixon 62    James Conner 83    
+BYE
+    New York        San Francisco

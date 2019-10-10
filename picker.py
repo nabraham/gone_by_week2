@@ -3,6 +3,7 @@ import os
 import re
 import argparse
 from collections import defaultdict
+from pprint import pprint
 
 def print_pickset(pickset, schedule):
     picks = pickset[0]
@@ -87,8 +88,12 @@ def parse_schedule(filename, ending, starting):
         return list(map(lambda x: week_dict[x], range(starting, ending+1)))
 
 # Sample score line
-#	CIN 34, IND 23	Andrew Luck 319	Joe Mixon 95	A.J. Green 92	
-score_pattern = re.compile('\t([A-Z]+) (\d+), ([A-Z]+) (\d+).*')
+# 2018 version
+# 	CIN 34, IND 23	Andrew Luck 319	Joe Mixon 95	A.J. Green 92
+# 2019 version
+# GB 10, CHI 3    Mitchell Trubisky 228    Aaron Jones 39    Allen Robinson II 102
+
+score_pattern = re.compile('^\t?([A-Z]+) (\d+), ([A-Z]+) (\d+).*')
 def parse_records(season_dir):
     LOSS = 0
     WIN = 1
@@ -97,7 +102,7 @@ def parse_records(season_dir):
         for file in files:
             with open('season/' + file) as f:
                 lines = f.read().strip().split('\n')
-                scores = filter(lambda x: x.startswith('\t'), lines)
+                scores = filter(lambda x: score_pattern.match(x), lines)
                 for line in scores:
                     match = score_pattern.match(line)
                     if int(match.group(2)) > int(match.group(4)):

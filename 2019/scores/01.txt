@@ -1,0 +1,52 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Green Bay    
+    Chicago
+GB 10, CHI 3    Mitchell Trubisky 228    Aaron Jones 39    Allen Robinson II 102    
+Sunday, September 8
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Tennessee    
+    Cleveland
+TEN 43, CLE 13    Baker Mayfield 285    Derrick Henry 84    A.J. Brown 100    
+    Baltimore    
+    Miami
+BAL 59, MIA 10    Lamar Jackson 324    Mark Ingram II 107    Marquise Brown 147    
+    Atlanta    
+    Minnesota
+MIN 28, ATL 12    Matt Ryan 304    Dalvin Cook 111    Austin Hooper 77    
+    Buffalo    
+    New York
+BUF 17, NYJ 16    Josh Allen 254    Devin Singletary 70    John Brown 123    
+    Washington    
+    Philadelphia
+PHI 32, WSH 27    Case Keenum 380    Darren Sproles 47    DeSean Jackson 154    
+    Los Angeles    
+    Carolina
+LAR 30, CAR 27    Cam Newton 239    Christian McCaffrey 128    Christian McCaffrey 81    
+    Kansas City    
+    Jacksonville
+KC 40, JAX 26    Patrick Mahomes 378    LeSean McCoy 81    Sammy Watkins 198    
+    Indianapolis    
+    Los Angeles
+LAC 30, IND 24 (OT)    Philip Rivers 333    Marlon Mack 174    Keenan Allen 123    
+    Cincinnati    
+    Seattle
+SEA 21, CIN 20    Andy Dalton 418    Chris Carson 46    John Ross III 158    
+    New York    
+    Dallas
+DAL 35, NYG 17    Dak Prescott 405    Saquon Barkley 120    Michael Gallup 158    
+    Detroit    
+    Arizona
+DET 27, ARI 27 (OT)    Matthew Stafford 385    David Johnson 82    T.J. Hockenson 131    
+    San Francisco    
+    Tampa Bay
+SF 31, TB 17    Jameis Winston 194    Ronald Jones II 75    George Kittle 54    
+    Pittsburgh    
+    New England
+NE 33, PIT 3    Tom Brady 341    Rex Burkhead 44    Phillip Dorsett II 95    
+Monday, September 9
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Houston    
+    New Orleans
+NO 30, HOU 28    Drew Brees 370    Alvin Kamara 97    Michael Thomas 123    
+    Denver    
+    Oakland

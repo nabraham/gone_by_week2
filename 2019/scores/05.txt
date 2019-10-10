@@ -1,0 +1,52 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Los Angeles    
+    Seattle
+SEA 30, LAR 29    Jared Goff 395    Chris Carson 118    Gerald Everett 136    
+Sunday, October 6
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Arizona    
+    Cincinnati
+ARI 26, CIN 23    Andy Dalton 262    Kyler Murray 93    Tyler Boyd 123    
+    Buffalo    
+    Tennessee
+BUF 14, TEN 7    Josh Allen 219    Derrick Henry 78    John Brown 75    
+    Chicago    
+    Oakland
+OAK 24, CHI 21    Chase Daniel 231    Josh Jacobs 123    Allen Robinson II 97    
+    Tampa Bay    
+    New Orleans
+NO 31, TB 24    Teddy Bridgewater 314    Alvin Kamara 62    Michael Thomas 182    
+    Minnesota    
+    New York
+MIN 28, NYG 10    Kirk Cousins 306    Dalvin Cook 132    Adam Thielen 130    
+    New York    
+    Philadelphia
+PHI 31, NYJ 6    Carson Wentz 189    Jordan Howard 62    Zach Ertz 57    
+    Baltimore    
+    Pittsburgh
+BAL 26, PIT 23 (OT)    Lamar Jackson 161    Lamar Jackson 70    JuJu Smith-Schuster 75    
+    New England    
+    Washington
+NE 33, WSH 7    Tom Brady 348    Sony Michel 91    Julian Edelman 110    
+    Jacksonville    
+    Carolina
+CAR 34, JAX 27    Gardner Minshew II 374    Christian McCaffrey 176    DJ Chark Jr. 164    
+    Atlanta    
+    Houston
+HOU 53, ATL 32    Deshaun Watson 426    Carlos Hyde 60    Will Fuller V 217    
+    Denver    
+    Los Angeles
+DEN 20, LAC 13    Philip Rivers 211    Phillip Lindsay 114    Courtland Sutton 92    
+    Green Bay    
+    Dallas
+GB 34, DAL 24    Dak Prescott 463    Aaron Jones 107    Amari Cooper 226    
+    Indianapolis    
+    Kansas City
+IND 19, KC 13    Patrick Mahomes 321    Marlon Mack 132    Byron Pringle 103    
+Monday, October 7
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER
+    Cleveland    
+    San Francisco
+SF 31, CLE 3    Jimmy Garoppolo 181    Matt Breida 114    Jarvis Landry 75    
+BYE
+    Detroit        Miami
