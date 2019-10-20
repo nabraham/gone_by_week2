@@ -21,12 +21,12 @@ def print_pick_set(pick_set, league_schedule) -> None:
         print(''.join([opn[v], matchup[0], cls[v],' @ ', opn[h], matchup[1], cls[h]]))
 
 
-def best(pick_sets, n):
+def best(pick_sets: List, n: int) -> List:
     pick_sets.sort(key=lambda x: x[1], reverse=True)
     return pick_sets[0:n]
 
 
-def thresh(n):
+def thresh(n: float) -> float:
     if n > 0.95:
         return 0.95
     elif n < 0.05:
@@ -35,10 +35,10 @@ def thresh(n):
         return n
 
     
-def clean(pick_sets):
+def clean(pick_sets: List) -> List:
     cleaned = {}
     for p in pick_sets:
-        key = ''.join(p[0])
+        key = ''.join(sorted(p[0]))
         if key not in cleaned or p[1] > cleaned[key][1]:
             cleaned[key] = p
     return list(cleaned.values())
@@ -65,9 +65,9 @@ def calculate_pick_sets(league_schedule: List[List[str]],
             composite_home = hv / total
             composite_visitor = vh / total
             for pick_set in queue:
-                if visitor not in pick_set[0] and composite_visitor >= composite_home and composite_visitor > 0.75:
+                if visitor not in pick_set[0] and composite_visitor >= composite_home:
                     new_queue.append((pick_set[0] + [visitor], pick_set[1] * composite_visitor))
-                if home not in pick_set[0] and composite_home >= composite_visitor and composite_home > 0.75:
+                if home not in pick_set[0] and composite_home >= composite_visitor:
                     new_queue.append((pick_set[0] + [home], pick_set[1] * composite_home))
         if len(new_queue) > 0:
             if prune:
