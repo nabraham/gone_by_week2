@@ -2,8 +2,10 @@ NYJ
 WAS
 MIA
 CIN
+---
 SEA
 HOU
 DAL
 LAC
 PHI
+BAL
