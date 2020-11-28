@@ -1,0 +1,49 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Green Bay    
+    San Francisco
+GB 34, SF 17    Aaron Rodgers 305    Aaron Jones 58    Richie James 184    
+Sunday, November 8
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Denver    
+    Atlanta
+ATL 34, DEN 27    Drew Lock 313    Todd Gurley II 53    Jerry Jeudy 125    
+    Seattle    
+    Buffalo
+BUF 44, SEA 34    Josh Allen 415    DeeJay Dallas 31    Stefon Diggs 118    
+    Chicago    
+    Tennessee
+TEN 24, CHI 17    Nick Foles 335    Derrick Henry 68    A.J. Brown 101    
+    Baltimore    
+    Indianapolis
+BAL 24, IND 10    Philip Rivers 227    Lamar Jackson 58    Michael Pittman Jr. 56    
+    Carolina    
+    Kansas City
+KC 33, CAR 31    Patrick Mahomes 372    Christian McCaffrey 69    Travis Kelce 159    
+    Detroit    
+    Minnesota
+MIN 34, DET 20    Kirk Cousins 220    Dalvin Cook 206    Danny Amendola 77    
+    New York    
+    Washington
+NYG 23, WSH 20    Alex Smith 325    Wayne Gallman 68    Terry McLaurin 115    
+    Houston    
+    Jacksonville
+HOU 27, JAX 25    Jake Luton 304    James Robinson 99    DJ Chark Jr. 146    
+    Las Vegas    
+    Los Angeles
+LV 31, LAC 26    Justin Herbert 326    Kalen Ballage 69    Keenan Allen 103    
+    Pittsburgh    
+    Dallas
+PIT 24, DAL 19    Ben Roethlisberger 306    Tony Pollard 57    JuJu Smith-Schuster 93    
+    Miami    
+    Arizona
+MIA 34, ARI 31    Kyler Murray 283    Kyler Murray 106    Christian Kirk 123    
+    New Orleans    
+    Tampa Bay
+NO 38, TB 3    Drew Brees 222    Taysom Hill 54    Mike Evans 64    
+Monday, November 9
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    New England    
+    New York
+NE 30, NYJ 27    Cam Newton 274    Damien Harris 71    Jakobi Meyers 169    
+BYE
+    Cincinnati        Cleveland        Los Angeles        Philadelphia

@@ -1,0 +1,53 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Houston    
+    Kansas City
+KC 34, HOU 20    Deshaun Watson 253    Clyde Edwards-Helaire 138    Will Fuller V 112    
+Sunday, September 13
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Seattle    
+    Atlanta
+SEA 38, ATL 25    Matt Ryan 450    Todd Gurley II 56    Julio Jones 157    
+    New York    
+    Buffalo
+BUF 27, NYJ 17    Josh Allen 312    Josh Allen 57    Jamison Crowder 115    
+    Chicago    
+    Detroit
+CHI 27, DET 23    Matthew Stafford 297    Adrian Peterson 93    Danny Amendola 81    
+    Green Bay    
+    Minnesota
+GB 43, MIN 34    Aaron Rodgers 364    Aaron Jones 66    Davante Adams 156    
+    Miami    
+    New England
+NE 21, MIA 11    Ryan Fitzpatrick 191    Cam Newton 75    Julian Edelman 57    
+    Philadelphia    
+    Washington
+WSH 27, PHI 17    Carson Wentz 270    Antonio Gibson 36    Dallas Goedert 101    
+    Las Vegas    
+    Carolina
+LV 34, CAR 30    Teddy Bridgewater 269    Christian McCaffrey 97    Robby Anderson 114    
+    Indianapolis    
+    Jacksonville
+JAX 27, IND 20    Philip Rivers 363    James Robinson 62    Parris Campbell 71    
+    Cleveland    
+    Baltimore
+BAL 38, CLE 6    Lamar Jackson 275    Kareem Hunt 72    Marquise Brown 101    
+    Los Angeles    
+    Cincinnati
+LAC 16, CIN 13    Tyrod Taylor 208    Austin Ekeler 84    Hunter Henry 73    
+    Tampa Bay    
+    New Orleans
+NO 34, TB 23    Tom Brady 239    Ronald Jones II 66    Jared Cook 80    
+    Arizona    
+    San Francisco
+ARI 24, SF 20    Jimmy Garoppolo 259    Kyler Murray 91    DeAndre Hopkins 151    
+    Dallas    
+    Los Angeles
+LAR 20, DAL 17    Jared Goff 275    Ezekiel Elliott 96    Robert Woods 105    
+Monday, September 14
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Pittsburgh    
+    New York
+PIT 26, NYG 16    Daniel Jones 279    Benny Snell Jr. 113    Darius Slayton 102    
+    Tennessee    
+    Denver
+TEN 16, DEN 14    Ryan Tannehill 249    Derrick Henry 116    Corey Davis 101

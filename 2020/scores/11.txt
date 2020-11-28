@@ -1,0 +1,49 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Arizona    
+    Seattle
+SEA 28, ARI 21    Kyler Murray 269    Carlos Hyde 79    Tyler Lockett 67    
+Sunday, November 22
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Philadelphia    
+    Cleveland
+CLE 22, PHI 17    Carson Wentz 235    Nick Chubb 114    Dallas Goedert 77    
+    Atlanta    
+    New Orleans
+NO 24, ATL 9    Taysom Hill 233    Taysom Hill 51    Michael Thomas 104    
+    Cincinnati    
+    Washington
+WSH 20, CIN 9    Joe Burrow 203    Antonio Gibson 94    Tyler Boyd 85    
+    Detroit    
+    Carolina
+CAR 20, DET 0    P.J. Walker 258    Mike Davis 64    DJ Moore 127    
+    Pittsburgh    
+    Jacksonville
+PIT 27, JAX 3    Ben Roethlisberger 267    James Conner 89    Diontae Johnson 111    
+    Tennessee    
+    Baltimore
+TEN 30, BAL 24 (OT)    Ryan Tannehill 259    Derrick Henry 133    Corey Davis 113    
+    New England    
+    Houston
+HOU 27, NE 20    Cam Newton 365    Damien Harris 43    Damiere Byrd 132    
+    Miami    
+    Denver
+DEN 20, MIA 13    Drew Lock 270    Melvin Gordon III 84    Tim Patrick 119    
+    New York    
+    Los Angeles
+LAC 34, NYJ 28    Justin Herbert 366    Frank Gore 61    Keenan Allen 145    
+    Green Bay    
+    Indianapolis
+IND 34, GB 31 (OT)    Aaron Rodgers 311    Jonathan Taylor 90    Davante Adams 106    
+    Dallas    
+    Minnesota
+DAL 31, MIN 28    Kirk Cousins 314    Dalvin Cook 115    Adam Thielen 123    
+    Kansas City    
+    Las Vegas
+KC 35, LV 31    Patrick Mahomes 348    Clyde Edwards-Helaire 69    Travis Kelce 127    
+Monday, November 23
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Los Angeles    
+    Tampa Bay
+LAR 27, TB 24    Jared Goff 376    Ronald Jones II 24    Cooper Kupp 145    
+BYE
+    Buffalo        Chicago        New York        San Francisco

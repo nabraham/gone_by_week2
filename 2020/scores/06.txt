@@ -1,0 +1,47 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Houston    
+    Tennessee
+TEN 42, HOU 36 (OT)    Ryan Tannehill 366    Derrick Henry 212    Will Fuller V 123    
+    Cincinnati    
+    Indianapolis
+IND 31, CIN 27    Philip Rivers 371    Jonathan Taylor 60    Tee Higgins 125    
+    Atlanta    
+    Minnesota
+ATL 40, MIN 23    Matt Ryan 371    Todd Gurley II 47    Justin Jefferson 166    
+    Denver    
+    New England
+DEN 18, NE 12    Drew Lock 189    Phillip Lindsay 101    Tim Patrick 101    
+    Washington    
+    New York
+NYG 20, WSH 19    Kyle Allen 280    Daniel Jones 74    Terry McLaurin 74    
+    Baltimore    
+    Philadelphia
+BAL 30, PHI 28    Carson Wentz 213    Miles Sanders 118    Travis Fulgham 75    
+    Cleveland    
+    Pittsburgh
+PIT 38, CLE 7    Ben Roethlisberger 162    James Conner 101    Chase Claypool 74    
+    Chicago    
+    Carolina
+CHI 23, CAR 16    Teddy Bridgewater 216    David Montgomery 58    DJ Moore 93    
+    Detroit    
+    Jacksonville
+DET 34, JAX 16    Gardner Minshew II 243    D'Andre Swift 116    Keelan Cole Sr. 143    
+    New York    
+    Miami
+MIA 24, NYJ 0    Ryan Fitzpatrick 191    Myles Gaskin 91    Breshad Perriman 62    
+    Green Bay    
+    Tampa Bay
+TB 38, GB 10    Tom Brady 166    Ronald Jones II 113    Rob Gronkowski 78    
+    Los Angeles    
+    San Francisco
+SF 24, LAR 16    Jimmy Garoppolo 268    Darrell Henderson Jr. 88    George Kittle 109    
+Monday, October 19
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Kansas City    
+    Buffalo
+KC 26, BUF 17    Patrick Mahomes 225    Clyde Edwards-Helaire 161    Demarcus Robinson 69    
+    Arizona    
+    Dallas
+ARI 38, DAL 10    Andy Dalton 266    Kenyan Drake 164    Christian Kirk 86    
+BYE
+    Las Vegas        New Orleans        Los Angeles        Seattle

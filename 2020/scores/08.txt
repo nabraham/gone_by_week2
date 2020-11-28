@@ -1,0 +1,49 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Atlanta    
+    Carolina
+ATL 25, CAR 17    Matt Ryan 281    Mike Davis 66    Julio Jones 137    
+Sunday, November 1
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    New England    
+    Buffalo
+BUF 24, NE 21    Cam Newton 174    Damien Harris 102    Stefon Diggs 92    
+    Tennessee    
+    Cincinnati
+CIN 31, TEN 20    Joe Burrow 249    Derrick Henry 112    Corey Davis 128    
+    Las Vegas    
+    Cleveland
+LV 16, CLE 6    Baker Mayfield 122    Josh Jacobs 129    Jarvis Landry 52    
+    Indianapolis    
+    Detroit
+IND 41, DET 21    Matthew Stafford 336    Jordan Wilkins 89    Marvin Hall 113    
+    Minnesota    
+    Green Bay
+MIN 28, GB 22    Aaron Rodgers 291    Dalvin Cook 163    Robert Tonyan 79    
+    New York    
+    Kansas City
+KC 35, NYJ 9    Patrick Mahomes 416    Frank Gore 30    Travis Kelce 109    
+    Los Angeles    
+    Miami
+MIA 28, LAR 17    Jared Goff 355    Myles Gaskin 47    Cooper Kupp 110    
+    Pittsburgh    
+    Baltimore
+PIT 28, BAL 24    Lamar Jackson 208    J.K. Dobbins 113    Willie Snead IV 106    
+    Los Angeles    
+    Denver
+DEN 31, LAC 30    Justin Herbert 278    Justin Jackson 89    Mike Williams 99    
+    New Orleans    
+    Chicago
+NO 26, CHI 23 (OT)    Drew Brees 280    David Montgomery 89    Alvin Kamara 96    
+    San Francisco    
+    Seattle
+SEA 37, SF 27    Russell Wilson 261    DeeJay Dallas 41    DK Metcalf 161    
+    Dallas    
+    Philadelphia
+PHI 23, DAL 9    Ben DiNucci 180    Boston Scott 70    Travis Fulgham 78    
+Monday, November 2
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Tampa Bay    
+    New York
+TB 25, NYG 23    Tom Brady 279    Leonard Fournette 52    Sterling Shepard 74    
+BYE
+    Arizona        Washington        Jacksonville        Houston

@@ -1,0 +1,51 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Tampa Bay    
+    Chicago
+CHI 20, TB 19    Tom Brady 253    Ronald Jones II 106    Allen Robinson II 90    
+Sunday, October 11
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Carolina    
+    Atlanta
+CAR 23, ATL 16    Teddy Bridgewater 313    Todd Gurley II 121    Calvin Ridley 136    
+    Las Vegas    
+    Kansas City
+LV 40, KC 32    Derek Carr 347    Josh Jacobs 77    Henry Ruggs III 118    
+    Arizona    
+    New York
+ARI 30, NYJ 10    Kyler Murray 380    Kenyan Drake 60    DeAndre Hopkins 131    
+    Philadelphia    
+    Pittsburgh
+PIT 38, PHI 29    Carson Wentz 258    Miles Sanders 80    Travis Fulgham 152    
+    Los Angeles    
+    Washington
+LAR 30, WSH 10    Jared Goff 309    Cam Akers 61    Gerald Everett 90    
+    Cincinnati    
+    Baltimore
+BAL 27, CIN 3    Joe Burrow 183    Joe Mixon 59    Marquise Brown 77    
+    Jacksonville    
+    Houston
+HOU 30, JAX 14    Deshaun Watson 359    David Johnson 96    Brandin Cooks 161    
+    Miami    
+    San Francisco
+MIA 43, SF 17    Ryan Fitzpatrick 350    Raheem Mostert 90    Preston Williams 106    
+    Indianapolis    
+    Cleveland
+CLE 32, IND 23    Baker Mayfield 247    Kareem Hunt 72    Jarvis Landry 88    
+    New York    
+    Dallas
+DAL 37, NYG 34    Daniel Jones 222    Ezekiel Elliott 91    Darius Slayton 129    
+    Minnesota    
+    Seattle
+SEA 27, MIN 26    Kirk Cousins 249    Alexander Mattison 112    DK Metcalf 93    
+Monday, October 12
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Los Angeles    
+    New Orleans
+NO 30, LAC 27 (OT)    Drew Brees 325    Justin Jackson 71    Emmanuel Sanders 122    
+Tuesday, October 13
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Buffalo    
+    Tennessee
+TEN 42, BUF 16    Josh Allen 263    Derrick Henry 57    Stefon Diggs 106    
+BYE
+    Denver        Detroit        Green Bay        New England

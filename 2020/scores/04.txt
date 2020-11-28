@@ -1,0 +1,52 @@
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Denver    
+    New York
+DEN 37, NYJ 28    Brett Rypien 242    Melvin Gordon III 107    Tim Patrick 113    
+Sunday, October 4
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    Jacksonville    
+    Cincinnati
+CIN 33, JAX 25    Gardner Minshew II 351    Joe Mixon 151    DJ Chark Jr. 95    
+    Cleveland    
+    Dallas
+CLE 49, DAL 38    Dak Prescott 502    D'Ernest Johnson 95    Amari Cooper 134    
+    New Orleans    
+    Detroit
+NO 35, DET 29    Drew Brees 246    Alvin Kamara 83    Emmanuel Sanders 93    
+    Seattle    
+    Miami
+SEA 31, MIA 23    Russell Wilson 360    Chris Carson 80    DeVante Parker 110    
+    Los Angeles    
+    Tampa Bay
+TB 38, LAC 31    Tom Brady 369    Ronald Jones II 111    Mike Evans 122    
+    Baltimore    
+    Washington
+BAL 31, WSH 17    Dwayne Haskins Jr. 314    Lamar Jackson 53    Terry McLaurin 118    
+    Arizona    
+    Carolina
+CAR 31, ARI 21    Teddy Bridgewater 276    Mike Davis 84    Robby Anderson 99    
+    Minnesota    
+    Houston
+MIN 31, HOU 23    Deshaun Watson 300    Dalvin Cook 130    Adam Thielen 114    
+    New York    
+    Los Angeles
+LAR 17, NYG 9    Jared Goff 200    Wayne Gallman 45    Cooper Kupp 69    
+    Indianapolis    
+    Chicago
+IND 19, CHI 11    Nick Foles 249    Jonathan Taylor 68    Allen Robinson II 101    
+    Buffalo    
+    Las Vegas
+BUF 30, LV 23    Derek Carr 311    Devin Singletary 56    Stefon Diggs 115    
+    Philadelphia    
+    San Francisco
+PHI 25, SF 20    Nick Mullens 200    Jerick McKinnon 54    George Kittle 183    
+Monday, October 5
+MATCHUP        RESULT    PASSING LEADER    RUSHING LEADER    RECEIVING LEADER    
+    New England    
+    Kansas City
+KC 26, NE 10    Patrick Mahomes 236    Damien Harris 100    Damiere Byrd 80    
+    Atlanta    
+    Green Bay
+GB 30, ATL 16    Aaron Rodgers 327    Aaron Jones 71    Robert Tonyan 98    
+BYE
+    Tennessee        Pittsburgh
